@@ -1,0 +1,11 @@
+c:\Users\ander\Source\repos\wapphtmlexport\bin\Debug\netcoreapp3.1\wapphtmlexport.exe
+C:\Users\ander\Source\repos\wapphtmlexport\bin\Debug\netcoreapp3.1\wapphtmlexport.deps.json
+C:\Users\ander\Source\repos\wapphtmlexport\bin\Debug\netcoreapp3.1\wapphtmlexport.runtimeconfig.json
+C:\Users\ander\Source\repos\wapphtmlexport\bin\Debug\netcoreapp3.1\wapphtmlexport.runtimeconfig.dev.json
+c:\Users\ander\Source\repos\wapphtmlexport\bin\Debug\netcoreapp3.1\wapphtmlexport.dll
+c:\Users\ander\Source\repos\wapphtmlexport\bin\Debug\netcoreapp3.1\wapphtmlexport.pdb
+c:\Users\ander\Source\repos\wapphtmlexport\obj\Debug\netcoreapp3.1\wapphtmlexport.csprojAssemblyReference.cache
+c:\Users\ander\Source\repos\wapphtmlexport\obj\Debug\netcoreapp3.1\wapphtmlexport.AssemblyInfoInputs.cache
+c:\Users\ander\Source\repos\wapphtmlexport\obj\Debug\netcoreapp3.1\wapphtmlexport.AssemblyInfo.cs
+c:\Users\ander\Source\repos\wapphtmlexport\obj\Debug\netcoreapp3.1\wapphtmlexport.dll
+c:\Users\ander\Source\repos\wapphtmlexport\obj\Debug\netcoreapp3.1\wapphtmlexport.pdb
