@@ -1,5 +1,6 @@
 ﻿using System;
-using System.Linq;
+using System.Diagnostics;
+using System.IO;
 
 namespace wapphtmlexport
 {
@@ -14,10 +15,13 @@ namespace wapphtmlexport
 
             var parser = new Parser(args[0]);
 
-            foreach (var author in parser.Authors)
-            {
-                Console.WriteLine("- " + author);
-            }
+            var html = parser.ExportHtml();
+
+            var fileName = Path.GetRandomFileName() + ".html";
+
+            File.WriteAllText(fileName, html);
+
+            Process.Start(fileName);
         }
     }
 }
